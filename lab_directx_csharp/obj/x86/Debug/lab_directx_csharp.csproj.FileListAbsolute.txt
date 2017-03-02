@@ -1,0 +1,46 @@
+C:\Users\usr\AppData\Local\Temporary Projects\lab_directx_csharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\usr\AppData\Local\Temporary Projects\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.Properties.Resources.resources
+C:\Users\usr\AppData\Local\Temporary Projects\lab_directx_csharp\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\usr\AppData\Local\Temporary Projects\lab_directx_csharp\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\usr\documents\visual studio 2010\Projects\lab_directx_csharp\lab_directx_csharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\usr\documents\visual studio 2010\Projects\lab_directx_csharp\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.Properties.Resources.resources
+C:\Users\usr\documents\visual studio 2010\Projects\lab_directx_csharp\lab_directx_csharp\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\usr\documents\visual studio 2010\Projects\lab_directx_csharp\lab_directx_csharp\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\usr\documents\visual studio 2010\Projects\lab_directx_csharp\lab_directx_csharp\bin\Debug\lab_directx_csharp.exe
+C:\Users\usr\documents\visual studio 2010\Projects\lab_directx_csharp\lab_directx_csharp\bin\Debug\lab_directx_csharp.pdb
+C:\Users\usr\documents\visual studio 2010\Projects\lab_directx_csharp\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.exe
+C:\Users\usr\documents\visual studio 2010\Projects\lab_directx_csharp\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.pdb
+C:\Users\usr\Documents\Visual Studio 2010\Projects\lab_directx_csharp - BASIC WIRE FRAME\lab_directx_csharp\bin\Debug\lab_directx_csharp.exe
+C:\Users\usr\Documents\Visual Studio 2010\Projects\lab_directx_csharp - BASIC WIRE FRAME\lab_directx_csharp\bin\Debug\lab_directx_csharp.pdb
+C:\Users\usr\Documents\Visual Studio 2010\Projects\lab_directx_csharp - BASIC WIRE FRAME\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.Properties.Resources.resources
+C:\Users\usr\Documents\Visual Studio 2010\Projects\lab_directx_csharp - BASIC WIRE FRAME\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.csproj.GenerateResource.Cache
+C:\Users\usr\Documents\Visual Studio 2010\Projects\lab_directx_csharp - BASIC WIRE FRAME\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.exe
+C:\Users\usr\Documents\Visual Studio 2010\Projects\lab_directx_csharp - BASIC WIRE FRAME\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.pdb
+C:\Users\usr\Documents\Visual Studio 2010\Projects\lab_directx_csharp - BASIC WIRE FRAME\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.csprojResolveAssemblyReference.cache
+C:\Users\usr\Desktop\active\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.exe
+C:\Users\usr\Desktop\active\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.csprojResolveAssemblyReference.cache
+C:\Users\usr\Desktop\active\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.Properties.Resources.resources
+C:\Users\usr\Desktop\active\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.csproj.GenerateResource.Cache
+C:\Users\usr\Desktop\active\lab_directx_csharp\bin\Debug\lab_directx_csharp.exe
+C:\Users\usr\Desktop\active\lab_directx_csharp\bin\Debug\lab_directx_csharp.pdb
+C:\Users\usr\Desktop\active\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.pdb
+C:\Users\usr\Desktop\active\lab_directx_csharp\bin\Debug\lab_directx_csharp.exe.config
+C:\Users\usr\Desktop\active\lab_directx_csharp\obj\x86\Debug\DirectX_Tutorial.WinForm.resources
+C:\Users\usr\Desktop\active\build rails\lab_directx_csharp\bin\Debug\lab_directx_csharp.exe.config
+C:\Users\usr\Desktop\active\build rails\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.exe
+C:\Users\usr\Desktop\active\build rails\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.pdb
+C:\Users\usr\Desktop\active\build rails\lab_directx_csharp\bin\Debug\lab_directx_csharp.exe
+C:\Users\usr\Desktop\active\build rails\lab_directx_csharp\bin\Debug\lab_directx_csharp.pdb
+C:\Users\usr\Desktop\active\build rails\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.csprojResolveAssemblyReference.cache
+C:\Users\usr\Desktop\active\build rails\lab_directx_csharp\obj\x86\Debug\DirectX_Tutorial.WinForm.resources
+C:\Users\usr\Desktop\active\build rails\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.Properties.Resources.resources
+C:\Users\usr\Desktop\active\build rails\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.csproj.GenerateResource.Cache
+C:\Users\usr\Desktop\active\Current\lab_directx_csharp\bin\Debug\lab_directx_csharp.exe.config
+C:\Users\usr\Desktop\active\Current\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.exe
+C:\Users\usr\Desktop\active\Current\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.pdb
+C:\Users\usr\Desktop\active\Current\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.csprojResolveAssemblyReference.cache
+C:\Users\usr\Desktop\active\Current\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.Properties.Resources.resources
+C:\Users\usr\Desktop\active\Current\lab_directx_csharp\obj\x86\Debug\lab_directx_csharp.csproj.GenerateResource.Cache
+C:\Users\usr\Desktop\active\Current\lab_directx_csharp\bin\Debug\lab_directx_csharp.exe
+C:\Users\usr\Desktop\active\Current\lab_directx_csharp\bin\Debug\lab_directx_csharp.pdb
+C:\Users\usr\Desktop\active\Current\lab_directx_csharp\obj\x86\Debug\DirectX_Tutorial.WinForm.resources
