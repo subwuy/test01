@@ -399,7 +399,7 @@ namespace DirectX_Tutorial
              * 
              */
 
-            int widthOfLink = 1;
+            int widthOfLink = 10;
             int mGripperStepPluse = (int)(cGripperStepPluse * 0.7f);
 
             vertices[0].Position = new Vector3(rails[0].start_Loc_x + mGripperStepPluse, rails[0].start_Loc_y - rails[0].width + (mGripperStepPluse * widthOfLink), 0f);  // corner A
@@ -565,16 +565,16 @@ namespace DirectX_Tutorial
                 }
                 else if (rails[links[i].currentRail].directionOfTravel == (int)ClassDef.clsRail.direction.up)
                 {
-                    // device.Transform.World = Matrix.RotationZ(90);
+                    // device.Transform.World *= Matrix.RotationZ(90f);
                     device.Transform.World = Matrix.Translation(xOffset, yOffset, zoom);
                 }
                 else if (rails[links[i].currentRail].directionOfTravel == (int)ClassDef.clsRail.direction.down)
                 {
-                    device.Transform.World = Matrix.Translation(xOffset, yOffset, zoom);// *Matrix.RotationZ(90f);
+                    //device.Transform.World *= Matrix.RotationZ(90f);
+                    device.Transform.World = Matrix.RotationZ(1.5708f) * Matrix.Translation(xOffset, yOffset, zoom);
 
                 }
 
-                //device.Transform.World = Matrix.Translation(xOffset, yOffset, zoom);
 
 
                 device.DrawIndexedPrimitives(PrimitiveType.TriangleList, 0, 0, 100, 0, indices.Length / 3);
